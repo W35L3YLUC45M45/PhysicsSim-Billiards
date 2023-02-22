@@ -1,0 +1,132 @@
+{
+    "holes":[
+        {
+            "id":1,
+            "position":[45, 45],
+            "opposite":6
+        },
+        {
+            "id":2,
+            "position":[320, 40],
+            "opposite":5
+        },
+        {
+            "id":3,
+            "position":[595, 45],
+            "opposite":4
+        },
+        {
+            "id":4,
+            "position":[45, 315],
+            "opposite":3
+        },
+        {
+            "id":5,
+            "position":[320, 320],
+            "opposite":2
+        },
+        {
+            "id":6,
+            "position":[595, 315],
+            "opposite":1
+        }
+    ],
+    "bolas":[
+        {
+            "id":0,
+            "position":[160, 180],
+            "type": 0,
+            "color": "#FFFFFF"
+        },
+        {
+            "id":1,
+            "position":[480, 140],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":2,
+            "position":[480, 160],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":3,
+            "position":[480, 200],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":4,
+            "position":[463, 170],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":5,
+            "position":[463, 210],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":6,
+            "position":[446, 200],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":7,
+            "position":[429, 170],
+            "type": 1,
+            "color": "#F5ABB9"
+        },
+        {
+            "id":8,
+            "position":[446, 180],
+            "type": 3,
+            "color": "#000"
+        },
+        {
+            "id":9,
+            "position":[480, 180],
+            "type": 2,
+            "color": "#5BCFFB"
+        },
+        {
+            "id":10,
+            "position":[480, 220],
+            "type": 2,
+            "color": "#5BCFFB"
+        },
+        {
+            "id":11,
+            "position":[463, 150],
+            "type": 2,
+            "color": "#5BCFFB"
+        },
+        {
+            "id":12,
+            "position":[463, 190],
+            "type": 2,
+            "color": "#5BCFFB"
+        },
+        {
+            "id":13,
+            "position":[446, 160],
+            "type": 2,
+            "color": "#5BCFFB"
+        },
+        {
+            "id":14,
+            "position":[429, 190],
+            "type": 2,
+            "color": "#5BCFFB"
+        },
+        {
+            "id":15,
+            "position":[412, 180],
+            "type": 2,
+            "color": "#5BCFFB"
+        }
+    ]
+}
